@@ -236,6 +236,13 @@
   }
 }
 .block2 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
   padding-top: 28px;
   width: 150px;
+  gap: 20px;
+}
+.input_1 {
+  transform: scale(2);
 }
